@@ -37,3 +37,9 @@
 添加机器人：[Kei_Maid](https://qun.qq.com/qunpro/robot/qunshare?robot_appid=102796496&robot_uin=3889702210)
 
 赞助：[爱发电](https://www.ifdian.net/a/bluerosion)
+
+----
+
+<div align="center">
+   made with ❤️ by KeiMaidBev
+</div>
