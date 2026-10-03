@@ -16,8 +16,13 @@
 
 ### 目前进度
 - [x] [Phira联机服务器房间管理](https://github.com/KeiMaidDev/koishi-plugin-phira-mp)
-- [x] [舞萌dx查分](https://github.com/KeiMaidDev/koishi-plugin-mai-plugin)
+- [x] [舞萌dx查分](https://github.com/KeiMaidDev/mai-plugin)
 - [x] [漂流瓶](https://github.com/KeiMaidDev/koishi-plugin-driftbottle-qq)
+- [x] [每日猪猪](https://github.com/KeiMaidDev/koishi-plugin-rollpig)
+- [x] [塔罗牌](https://github.com/KeiMaidDev/koishi-plugin-tarot)
+- [x] [更新日志](https://github.com/KeiMaidDev/koishi-plugin-changelog)
+- [x] [入群欢迎](https://github.com/KeiMaidDev/koishi-plugin-welcome-message-qq)
+- [x] [pjsk表情制作](https://github.com/KeiMaidDev/koishi-plugin-pjsk-pptr-for-qq)
 - [ ] [天气查询](https://github.com/KeiMaidDev/koishi-plugin-60s-weather)：暂未适配markdown文本
 - [ ] 中二节奏查分
 - [ ] ~~phigros查分~~：原作者考虑移植，待后续观察
@@ -30,7 +35,7 @@
 
 贡献者：[啥都不会の瑜酱](https://github.com/bluerosion)
 
-鸣谢：[VincentZyu](https://github.com/VincentZyu233)
+运维：[VincentZyu](https://github.com/VincentZyu233)
 
 ## 支持我们
 
