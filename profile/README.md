@@ -32,11 +32,11 @@
 
 如遇bug欢迎在相应插件提交issues或pr～也可以通过[官方群聊](https://qm.qq.com/q/eDQWwzJgaI)或[反馈收集表](https://txc.qq.com/embed/phone/800444)提交
 
-## 关于
+## 鸣谢
 
-开发者：[白瑜](https://github.com/bluerosion)
+开发：[白瑜](https://github.com/bluerosion)
 
-鸣谢：[nofyso](https://github.com/nofyso)
+特别鸣谢：[nofyso](https://github.com/nofyso)
 
 ## 支持我们
 
