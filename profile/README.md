@@ -47,5 +47,5 @@
 ----
 
 <div align="center">
-   made with ❤️ by KeiMaidBev
+   made with ❤️ by KeiMaidDev
 </div>
