@@ -17,6 +17,7 @@
 ### 目前进度
 - [x] [Phira联机服务器房间管理](https://github.com/KeiMaidDev/koishi-plugin-phira-mp)
 - [x] [舞萌dx查分](https://github.com/KeiMaidDev/mai-plugin)
+- [x] [phigros查分](https://github.com/KeiMaidDev/phi-plugin-koishi)
 - [x] [漂流瓶](https://github.com/KeiMaidDev/koishi-plugin-driftbottle-qq)
 - [x] [今日猪猪](https://github.com/KeiMaidDev/koishi-plugin-rollpig)
 - [x] [塔罗牌](https://github.com/KeiMaidDev/koishi-plugin-tarot)
@@ -26,7 +27,7 @@
 - [x] [qq机器人菜单编辑](https://github.com/KeiMaidDev/koishi-plugin-menu-edit)
 - [ ] [天气查询](https://github.com/KeiMaidDev/koishi-plugin-60s-weather)：暂未适配markdown文本
 - [ ] 中二节奏查分
-- [ ] phigros查分
+
 
 ## 问题反馈
 
