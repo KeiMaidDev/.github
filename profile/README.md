@@ -15,17 +15,21 @@
 存储库内存储了KeiMaidDev运营组开发的适用于[adapter-qq-crack](https://github.com/koishi-shangxue-plugins/koishi-plugin-adapter-qq-crack)适配器的Koishi插件
 
 ### 目前进度
-- [x] [Phira联机服务器房间管理](https://github.com/KeiMaidDev/koishi-plugin-phira-mp)
+
+>[!NOTE]
+> 部分插件正在重构中～
+
+- [ ] ~~[Phira联机服务器房间管理](https://github.com/KeiMaidDev/koishi-plugin-phira-mp)~~
 - [x] [舞萌dx查分](https://github.com/KeiMaidDev/mai-plugin)
 - [x] [phigros查分](https://github.com/KeiMaidDev/phi-plugin-koishi)
 - [x] [漂流瓶](https://github.com/KeiMaidDev/koishi-plugin-driftbottle-qq)
-- [x] [今日猪猪](https://github.com/KeiMaidDev/koishi-plugin-rollpig)
-- [x] [塔罗牌](https://github.com/KeiMaidDev/koishi-plugin-tarot)
+- [ ] ~~[今日猪猪](https://github.com/KeiMaidDev/koishi-plugin-rollpig)~~
+- [ ] ~~[塔罗牌](https://github.com/KeiMaidDev/koishi-plugin-tarot)~~
 - [x] [更新日志](https://github.com/KeiMaidDev/koishi-plugin-changelog)
 - [x] [入群欢迎](https://github.com/KeiMaidDev/koishi-plugin-welcome-message-qq)
 - [x] [pjsk表情制作](https://github.com/KeiMaidDev/koishi-plugin-pjsk-pptr-for-qq)
 - [x] [qq机器人菜单编辑](https://github.com/KeiMaidDev/koishi-plugin-menu-edit)
-- [ ] [天气查询](https://github.com/KeiMaidDev/koishi-plugin-60s-weather)：暂未适配markdown文本
+- [ ] ~~[天气查询](https://github.com/KeiMaidDev/koishi-plugin-60s-weather)~~
 - [ ] 中二节奏查分
 
 
